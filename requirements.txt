@@ -1,0 +1,4 @@
+flask
+identity
+python-dotenv
+flask-session
